@@ -1,0 +1,20 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+venv/
+env/
+.env
+
+# Models (optional – can be regenerated)
+models/*.pkl
+models/*.h5
+models/*.txt
+
+# IDE
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/
